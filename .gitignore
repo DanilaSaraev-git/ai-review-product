@@ -24,3 +24,8 @@ htmlcov/
 
 # Локальные разрешения Claude Code — машинная настройка, не общий файл.
 .claude/settings.local.json
+
+# Служебные lock-файлы Microsoft Office, создаются при открытом документе.
+~$*.xls*
+~$*.doc*
+~$*.ppt*
