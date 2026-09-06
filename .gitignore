@@ -30,3 +30,8 @@ model-cache/
 *.safetensors
 *.ckpt
 *.onnx
+
+# Служебные lock-файлы Microsoft Office, создаются при открытом документе.
+~$*.xls*
+~$*.doc*
+~$*.ppt*

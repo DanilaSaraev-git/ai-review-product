@@ -14,6 +14,8 @@
 | [knowledge/decisions.md](knowledge/decisions.md) | Принятые решения и открытые вопросы |
 | [knowledge/sources.md](knowledge/sources.md) | Реестр первичных и производных источников |
 | [knowledge/solution-overview.md](knowledge/solution-overview.md) | Общее описание решения без реализации |
+| [knowledge/economics.md](knowledge/economics.md) | Расчёт денежного эффекта: разбор книги [`МТС_AI_Reviwe.xlsx`](МТС_AI_Reviwe.xlsx), происхождение входных значений и статус допущений |
+| [knowledge/review-effort-benchmarks.md](knowledge/review-effort-benchmarks.md) | Внешние нормы трудоёмкости проверки требований и пересчёт на десятистраничное ТЗ |
 | [MTS/README.md](MTS/README.md) | Контекст первого клиента, источники, исследования и deliverables |
 | [MTS/experiments/README.md](MTS/experiments/README.md) | Реестр двух разных прогонов ревью и границы их сравнения |
 
@@ -30,6 +32,7 @@
 - [UI-концепт](MTS/design/web-review-concept/README.md) — визуальная гипотеза, не реализованный интерфейс.
 - [Оценка моделей](MTS/model-suitability.md) и [уточнение списка кандидатов](MTS/model-candidates.md) — кабинетные материалы без результатов запусков моделей.
 - [Источники и документы](MTS/README.md#источники-и-данные) — оригиналы, извлечения и границы доказательств.
+- [Синтетические ТЗ с внесёнными ошибками](MTS/experiments/synthetic-specs/README.md) — два ТЗ по шаблону MTS в версиях с ошибками и без них с реестром внесённых ошибок; синтетический материал без экспертной проверки.
 
 ## Политика артефактов
 
